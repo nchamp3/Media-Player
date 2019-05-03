@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AudioClient</string>
+    <string name="desc">play/pause</string>
+    <string name="service">Start Service</string>
+    <string name="play_tag">play</string>
+    <string name="song1">1</string>
+    <string name="song2">2</string>
+    <string name="song3">3</string>
+    <string name="song4">4</string>
+    <string name="song5">5</string>
+    <string name="selectTrack">Select a Track to Play!</string>
+</resources>
