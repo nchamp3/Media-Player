@@ -1,12 +1,12 @@
-# Media-Player
-This is a simple media player using a service
+# MediaPlayer-AudioClient
+This is a simple media player UI
 
 
 Description: 
 
-    This application consists of two apps - a service app and a UI app.
+    This application is the UI for the media player app.
     Once the service is started, the user can play/pause a track, stop playback 
-    by unbinding from the service, or stop the service.
+    by unbinding from the service, or stop the service, using this UI.
 
 
 **************************************************************************
